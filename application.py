@@ -1,4 +1,4 @@
-pyfrom flask_app import create_app
+from flask_app import create_app
 
 # import app instance and initialize
 app = create_app()
